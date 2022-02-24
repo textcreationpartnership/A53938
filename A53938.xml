@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The reply of Richard Peirce farmer of the duties of package, scavage, balliage and portage; to a paper intituled, The case of Thomas Kilner relating to the duties of package, scavage, &amp;c. lately industriuously dispersed.</title>
+            <author>Peirce, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A53938</idno>
+            <idno type="STC">Wing P1066A</idno>
+            <idno type="STC">ESTC R218210</idno>
+            <idno type="EEBO-CITATION">99829821</idno>
+            <idno type="PROQUEST">99829821</idno>
+            <idno type="VID">34265</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A53938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34265)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The reply of Richard Peirce farmer of the duties of package, scavage, balliage and portage; to a paper intituled, The case of Thomas Kilner relating to the duties of package, scavage, &amp;c. lately industriuously dispersed.</title>
+                  <author>Peirce, Richard.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1698]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>With docket title: The reply of Richard Peirce the present farmer of the scavage duties, to Kilner's case.</note>
+                  <note>On verso: The case of Richard Peirce ..; docket title below.</note>
+                  <note>Copy has extreme print showthrough on both sides.</note>
+                  <note>Reproduction of the original at the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Land settlement --  Law and legislation --  England --  Early works to 1800.</term>
+               <term>Landlord and tenant --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:34265:1" rendition="simple:additions"/>
+            <head>The REPLY OF RICHARD PEIRCE, <hi>Farmer of the Duties of</hi> Package, Scavage, Balliage <hi>and</hi> Portage; <hi>to a Paper Intituled,</hi> The Care of <hi>Thomas Kilner</hi> Relating to the Duties of <hi>Package, Scavage,</hi> &amp;c. <hi>lately Industriously Diſperſed.</hi>
+            </head>
+            <p>THAT the ſaid <hi>Richard Peirce</hi> being the preſent Tenant to the ſaid Farm, and having been ſo for above 20 Years, and having, during that time, conſtantly paid his Rent, and his Leaſe expiring in leſs than 12 Months, did on the 22th Day of <hi>November,</hi> 1704, petition the Committee of City-Lands to renew his Leaſe. It being a known Rule of the ſaid Committee to receive Propoſitions from the Tenants in Poſſeſſion, to re<g ref="char:EOLhyphen"/>new their Leaſes at any Time within three Years before the Expiration of their Leaſe in being, without Publi<g ref="char:EOLhyphen"/>cation, that the Premiſes leaſed are to be let.</p>
+            <p>THAT the ſaid <hi>Peirce</hi> did then exhibit to the ſaid Committee, ſundry Reaſons in Writing hereto annexed (to which the Reader is referred) to induce the ſaid Committee to renew his ſaid Leaſe, which Reaſons, the ſaid <hi>Peirce</hi> had upon another Occaſion, lately proved before them to their Satisfaction; and the ſame being freſh in their Memories, they the ſaid Committee did then contract with the ſaid <hi>Peirce,</hi> to renew his ſaid Leaſe for One and Twenty Years, to commence from the End of his preſent Leaſe for 1000 <hi>l.</hi> Fine, and 950 <hi>l. per Annum</hi> Rent, and in Confirmation of the ſaid Contract, the ſaid <hi>Peirce</hi> (according to the uſual Practice upon Concluſion of Contracts with the ſaid Committee) put 5 Guineas into the Poors Box.</p>
+            <p>THAT the ſaid <hi>Thomas Kilner,</hi> hearing the ſaid <hi>Peirce</hi> had contracted for the ſaid Farm, petitioned the Court of <hi>Aldermen,</hi> and thereby prayed to be admitted Tenant to the ſaid Farm at 1200 <hi>l.</hi> Fine, and 1200 <hi>l. per Annum</hi> Rent, alledging thereby, that the ſaid Contract with the ſaid <hi>Peirce</hi> was unduely obtained, upon Suggeſtions which the ſaid <hi>Kilner</hi> therein undertook to falſifie; and the ſaid <hi>Kilner</hi> upon ſuch his Petition obtained an Order from that Court, for the ſaid Committee to report the Caſe as it ſtood before them, and thereupon the ſaid <hi>Kilner</hi> had a Day aſſigned him by the ſaid Committee, to hear his Council and to produce his Evidence, to falſifie the ſaid <hi>Peirce</hi>'s Suggeſtions, and accord<g ref="char:EOLhyphen"/>ingly he appeared before the Committee with his Council, but could not, nor did falſifie one Article of the ſaid <hi>Peirce</hi>'s Suggeſtions, nor could he produce any colourable Evidence for that purpoſe. He did indeed then produce <hi>Wilmot</hi>'s Letter and Affidavit (printed in his Caſe) and inſiſted to have them read and admitted as Evidence, but (it be<g ref="char:EOLhyphen"/>ing a known Rule in Law, that written Evidence ought not to be admitted, where the Party could be produced to be examined <hi>viva Voce,</hi> that ſo by croſs Examination the Truth might be diſcovered) that Letter and Affidavit was dis<g ref="char:EOLhyphen"/>allowed by them for Evidence.</p>
+            <p>THAT the ſaid Letter and Affidavit of <hi>Wilmot</hi> are as malicious as untrue, which the ſaid <hi>Peirce</hi> can prove, but conceives it needleſs; the Subject Matter of them wholly referring to Matters tranſacted before the ſaid Committee in the Year 1700. when the ſaid <hi>Peirce</hi> made full Proof of his Caſe (ſet out and printed in <hi>Kilner</hi>'s Caſe) before the ſaid Committee, which is now freſh in their Memory; and had the ſaid <hi>Peirce</hi> then complied with the ſaid <hi>Wilmot</hi>'s un<g ref="char:EOLhyphen"/>reaſonable Demands, this Letter and Affidavit had never been heard of.</p>
+            <p>THAT the ſaid <hi>Kilner,</hi> failing to falſifie the ſaid <hi>Peirce</hi>'s Suggeſtions before the ſaid Committee according to his ſaid Undertaking, attempted afterwards to prove the Charge of Bribery, ſet out in his Caſe upon the ſaid <hi>Peirce</hi> before the Court of <hi>Aldermen,</hi> and had a Day aſſigned him by that Court for that purpoſe, but was therein as ſuc<g ref="char:EOLhyphen"/>ceſsleſs as in his former Undertaking, nor could he make any Proof of any ſuch Thing; he did indeed, produce one <hi>Ri<g ref="char:EOLhyphen"/>chard Bromley,</hi>
+               <note place="margin">
+                  <hi>Vide</hi> The Order of the Court of Al<g ref="char:EOLhyphen"/>dermen be<g ref="char:EOLhyphen"/>low for <hi>Brom<g ref="char:EOLhyphen"/>ley</hi>'s Chara<g ref="char:EOLhyphen"/>cter.</note> a Common Council-Man of one Year's ſtanding only (who is by Trade a Potter, but a Solicitor of Cauſes) and by him did prove (what the ſaid <hi>Peirce</hi> admitted) that after he had made his Contract with the ſaid Committee, he had given the ſaid <hi>Richard Bromley</hi> a Guinea, which <hi>Kilner</hi> would have to be a Bribe, but <hi>Peirce</hi> can prove it was for his Solicitation of other Matters for him (if needful) but however that be, the giving <hi>Bromley</hi> a Guinea, could not be any Inducement to him, or any of the Committee to make the ſaid Contract with <hi>Peirce;</hi> the ſaid Guinea being given after the ſaid Contract made, wherefore the Honourable Court of <hi>Aldermen</hi> would trouble themſelves no further therein.</p>
+         </div>
+         <div type="document">
+            <head>REASONS <hi>why the Contract made by the Committee of City-Lands with Col.</hi> Peirce <hi>ought to be confirmed, and Mr.</hi> Kilner<hi>'s Propoſal rejected.</hi>
+            </head>
+            <p n="1">I. Becauſe it was fairly obtained, and notwithſtanding the <hi>Committee</hi> (after the Contract made with <hi>Peirce</hi>) did admit <hi>Kilner</hi> to diſprove <hi>Peirce</hi>'s Suggeſtions, yet <hi>Kilner</hi> was ſo far from doing it, that he could not falſify them in the leaſt Circumſtance or Tittle; for the Truth of this, <hi>Peirce</hi> humbly appeals to the Worthy Members of the <hi>Committee</hi> then preſent.</p>
+            <p n="2">II. It is humbly apprehended to be more for the Intereſt as well as Honour of the City, not to receed from their Contract with <hi>Peirce;</hi> for altho' <hi>Kilner</hi> offers an higher Fine and Rent, yet in reſpect of the Hazard the City runs, in putting this Office into the Hands of a Perſon, totally unacquainted with the Nature of it. It conſiſting in the Collection of ſeveral Duties, due as well by Ancient Cuſtom and Uſage as by Act of Parliament; and ſhould this unexperienc'd Gentleman prevail againſt the old Tenant, and receive more for the Duties than he ought, or other<g ref="char:EOLhyphen"/>wiſe misbehave himſelf, it would be a Cauſe of Seizure into the Queen's Hands, and ſo a Means whereby the City may loſe the Duties.</p>
+            <p n="3">III. As the Rent reſerved upon this Leaſe from 400 <hi>l. per Annum,</hi> which it was lett at when the ſaid <hi>Peirce</hi> firſt took it, has ever ſince (which is now above twenty Years) anſwered to the City above 1000 <hi>l. per Annum,</hi> and as the Rent was at firſt increaſed, and by good Management at the ſaid <hi>Peirce</hi>'s great Charges and Expences kept up at this Rent, ſo it may by ill Management be ſoon reduced to 400 <hi>l.per Annum</hi> again.</p>
+            <p n="4">IV. If any Favour ought to be ſhown to an old Tenant, who has hitherto punctually performed his Bargain with the City, and who ſtands unimpeached of any Misbehaviour in his Office, either in reſpect of oppreſſing the Merchants, or in defrauding the City; <hi>Peirce</hi> humbly hopes himſelf entitul'd to it, eſpecially ſince he ſtands in competition with one, who has falſly reproached the Honourable Courts of <hi>Aldermen</hi> and <hi>Common-Council,</hi> and who bids ſo deſperately for an Office, of which he hath neither Knowledge or Experience, and conſequently muſt be ignorant both of the Method and the Value of it.</p>
+            <closer>
+               <signed>EDWIN Major.</signed>
+               <dateline>
+                  <date>Jovis xv. Die <hi>Septemb.</hi> 1698. Anno<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Wilhelmi Tertij Angl' <hi>&amp;c.</hi> Decimo.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="document">
+            <p>THIS Court taking Notice, That <hi>Richard Bromley</hi> hath Printed and Publiſhed ſeveral Malitious and Libellous Papers, reflecting upon the Government and Magiſtracy of this City, which are both Falſe and Scandalous: It is Agreed and Ordered, That the ſaid <hi>Richard Bromley</hi> ſhall not for the future be Imployed by this Court, or Court of Common-Council, or by any Committee of either, nor be admitted to inſpect any Books or Records in any of the Offices of this City, nor be any ways Imployed or Concerned in the Buſineſs of the ſame.</p>
+            <closer>
+               <signed>Aſhhurſt.</signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb facs="tcp:34265:2"/>
+            <head>The CASE OF <hi>RICHARD PEIRCE,</hi> Citizen and Grocer of <hi>London,</hi> and Collector and Farmer of <hi>Package, Scavage,</hi> &amp;c.</head>
+            <p>HE hath been Tenant to the City near 21 Years, under Two ſeveral Succeſſive Leaſes, during which Time he hath duely paid his Rent.</p>
+            <p>He was the Perſon that acquainted the City, that Sir <hi>Nicholas Butler</hi> had (during the Time that the Judgment upon the <hi>Quo Warranto</hi> was in Force) Obtain'd of the late King <hi>Charles II.</hi> a Grant of the ſaid Duties at the Rent of <hi>400 l. per Annum,</hi> whereby the City by a timely Application prevented the ſaid late King's paſſing that Grant.</p>
+            <p>The ſaid <hi>Peirce</hi> immediately took a Leaſe of the ſaid Duties at <hi>1200 l. per Annum,</hi> and advanced a Year's Rent before<g ref="char:EOLhyphen"/>hand, which was three times the Rent the ſame ever went at before, which he continued Payment of, under that and a ſubſequent Leaſe till very lately, when the City was ſenſible of the Exceſſiveneſs of the ſaid Rent, and the great Expences, Loſſes and Hardſhips ſuſtained by him, and abated <hi>150 l. per Annum,</hi> for ſome few Years laſt paſt, for the Reaſons here-under-mentioned.</p>
+            <p>The ſaid <hi>Peirce</hi> was at great Charges in ſuing Merchants to enforce them to pay the ſaid Duties, they pretending they were not liable to pay the ſame, during the Continuance of the Judgment againſt the City upon the <hi>Quo Warranto.</hi>
+            </p>
+            <p>The ſaid <hi>Peirce</hi> was at great Charges in his Endeavours to get the Ancient Charters Confirmed by the Act of Parliament which reverſed the Judgment on the <hi>Quo Warranto,</hi> and in ſoliciting that Affair when a former Bill for reſtoring Corporations was depending, relating to Foreign Trade and Navigation, and other Matters that would affect the ſaid Duties if they had paſſed, in which he received little or no Aſſiſtance from the then Members of the City.</p>
+            <p>The Neceſſity of Publick Affairs ever ſince the Revolution requiring frequent Parliaments, gave Opportunity to great Numbers of Merchants-Aliens to apply for Naturalizations, which they did (and continually do) and many hundreds were Naturalized, and ſo exempted themſelves and Correſpondents beyond Sea (whoſe Goods they coloured) from Payment of the ſaid Duties, to the Farmer's very Great Loſs, in leſſening the Profits of his Farm, beſides his Great Labour and Expences in Oppoſing Private Bills of Naturalization, and ſucceſsfully preventing the Paſſing of a General Bill of Naturalization.</p>
+            <p>The ſaid Duties are very much leſſened by a late Act of Parliament, that takes off the Queen's Cuſtoms of Woollen, and other Manufactures of this Nation Exported, by reaſon that ſuch Merchants-Aliens as are not Naturalized, becauſe of their Difference in Religion, enter ſuch their Goods in the Names of their Packers, Factors and Friends, <hi>Engliſh</hi>-Men; there being no Penalty now given to the Queen for preventing their ſo doing, by which Means they paſs undiſcovered, and defeat the Farmer and City of the ſaid Duties, which leſſens the Farm Conſiderably.</p>
+            <p>The Court of Aldermen have (ſince the ſaid Leaſe granted to the ſaid <hi>Peirce</hi>) admitted many Denizens, and Sons of Aliens into the Freedom of the City, though they had given him Promiſes to the contrary, by which Freedom they are Exempted from Payment of the ſaid Duties, which they were before liable to the Payment of.</p>
+            <p>
+               <hi>All which Matters and Things Conſidered, the ſaid <hi>Peirce</hi> being the preſent Tenant, and having been Intereſted ſo many Years in the ſaid Farm, and well behaved himſelf therein; hopes he ſhall have the Favour of Renewing the ſaid Leaſe for 21 Years; and that the City will Reduce his Rent, as his Caſe deſerves, and according to Equity and Good Conſcience; that he may have an Opportunity in ſome Meaſure to repair his Great Charge, Loſſes and Damages aforeſaid, and the rather becauſe he hath ſequeſtred himſelf from all other Imployments, and betaken himſelf ſolely to the Managing of this Farm, which he hath for ſo many Years been verſed in and inured to.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="docket_title">
+            <p>
+               <hi>THE REPLY OF</hi> RICHARD PEIRCE, <hi>the Preſent Farmer of the Scavage Duties, to</hi> Kilner<hi>'s CASE.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
